@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://andre3ro.github.io/UpdatePatch/",
+    "DownloadUrl": "https://dsolaunch.github.io/UpdatePatch/",
     "MinPatchVersion": 1,
     "PatchVersion":99
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://andre3ro.github.io/Launcher/",
+    "DownloadPath": "https://dsolaunch.github.io/Launcher/",
     "CurrentVersion": 326,
     "ExeFileName": "DSOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -24,7 +24,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "https://andre3ro.github.io/UpdateManager/",
+    "DownloadPath": "https://dsolaunch.github.io/UpdateManager/",
     "CurrentVersion": 13,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DSOLauncher.exe",
@@ -47,14 +47,14 @@
       }
     ]
   },
-  "RumbleConfig": "https://andre3ro.github.io/digimon/cdn/rumble/live/RumbleConfig.json",
+  "RumbleConfig": "https://dsolaunch.github.io/digimon/cdn/rumble/live/RumbleConfig.json",
   "MainUrl": [
     {
       "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/FARMfaTW",
       "GameDownloadUrl": "https://discord.gg/FARMfaTW",
-      "MainPageUrl": "https://andre3ro.github.io/main.html",
-      "BanerUrl": "https://andre3ro.github.io/banner.html",
+      "MainPageUrl": "https://dsolaunch.github.io/main.html",
+      "BanerUrl": "https://dsolaunch.github.io/banner.html",
       "ClientIP": "game.digitalshinkaonline.com",
 	    "ClientPort": "7605",
       "Unlock":false
